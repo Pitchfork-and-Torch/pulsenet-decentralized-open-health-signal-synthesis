@@ -1,0 +1,12 @@
+{
+  "slug": "pulsenet-decentralized-open-health-signal-synthesis",
+  "title": "PulseNet: Decentralized Open Health Signal Synthesis (v1.0.0)",
+  "projectTitle": "PulseNet: Decentralized Open Health Signal Synthesis",
+  "version": "v1.0.0",
+  "sealedAt": "2026-08-11T02:30:16.210Z",
+  "license": "MIT",
+  "proposerHandle": "SuddenlyJon",
+  "sealNote": "Privacy-first contribution protocols, signal schemas, DP/aggregation designs, and governance packs for population health insights without centralized raw biometrics. Builder-ready: [30m] good-first leaves, matching pool on, seal credit for accepted work.",
+  "acceptedDeliverables": 9,
+  "forgedOn": "GrokForge"
+}
