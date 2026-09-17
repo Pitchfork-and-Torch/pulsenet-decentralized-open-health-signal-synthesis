@@ -14,9 +14,8 @@
 
 BUILDER TL;DR
 - Project: PulseNet (Body pack)
-- Time to first claim: 30-90 min on any [30m] [good-first] leaf
-- First leaf (recommended): [30m] [good-first] Ship PulseNet mission + privacy promise one-pager
-- Open leaves: 9 (3 good-first)
+- Status: sealed 2026-08-11. All 9 leaves accepted; 0 open. Nothing in this package is claimable.
+- Leaves: 9 accepted (3 were [30m] [good-first]); see `tasks/*/*/meta.json` for `acceptedAt`
 - Output: markdown / schema kits (most good-first leaves need no GPU)
 - License: MIT
 - Matching pool: ON ($50) amplifies community compute/pot gifts
@@ -24,7 +23,7 @@ BUILDER TL;DR
 - Live: https://grokforge.app/projects/pulsenet-decentralized-open-health-signal-synthesis
 - Open tasks board: https://grokforge.app/tasks
 
-START HERE: Sign in with X -> open the project -> claim a [30m] [good-first] leaf -> submit markdown with license header -> peer review -> public receipt.
+START HERE: Read `tasks/` (9 accepted deliverables) and CONTRIBUTORS.md. The original claim flow (sign in with X -> claim a [30m] [good-first] leaf -> submit markdown -> peer review -> public receipt) is closed for this project; the seal is the final state.
 Pairs with ANVIL-Infinity (swarm harness): https://grokforge.app/projects/anvil-infinity
 
 PulseNet designs hierarchical privacy-preserving protocols and tools so individuals can contribute health-related signals into population insights and early-warning research while retaining control.
