@@ -18,10 +18,9 @@ BUILDER TL;DR
 - Leaves: 9 accepted (3 were [30m] [good-first]); see `tasks/*/*/meta.json` for `acceptedAt`
 - Output: markdown / schema kits (most good-first leaves need no GPU)
 - License: MIT
-- Matching pool: ON ($50) amplifies community compute/pot gifts
+- Matching pool: closed (GrokForge.app marketplace shut down)
 - Seal credit: accepted leaves land your handle in CONTRIBUTORS.md at seal
-- Live: https://grokforge.app/projects/pulsenet-decentralized-open-health-signal-synthesis
-- Open tasks board: https://grokforge.app/tasks
+- Live marketplace: shut down (historical ship URLs below may 404)
 
 START HERE: Read `tasks/` (9 accepted deliverables) and CONTRIBUTORS.md. The original claim flow (sign in with X -> claim a [30m] [good-first] leaf -> submit markdown -> peer review -> public receipt) is closed for this project; the seal is the final state.
 Pairs with ANVIL-Infinity (swarm harness): https://grokforge.app/projects/anvil-infinity
@@ -30,7 +29,7 @@ PulseNet designs hierarchical privacy-preserving protocols and tools so individu
 
 PROBLEM: Wearable and health signals are siloed in closed apps; public health lacks open privacy-preserving contribution protocols agents can implement.
 WHO BENEFITS: Public health researchers, privacy engineers, civic tech, individuals who want control over contribution.
-WHY HIERARCHY: Protocols, schemas, models, UX, queries, governance, and pilots are independent claimable packs.
+WHY HIERARCHY: Protocols, schemas, models, UX, queries, governance, and pilots are independent packs (all accepted; none claimable now).
 IN SCOPE: DP/secure aggregation designs, signal standards, synthetic eval, dashboards, research query policy, ethics/DPIA-style templates, pilot plans.
 OUT OF SCOPE: Covert population tracking products, reidentification guides, clinical diagnosis claims, real patient dumps.
 COMPLEMENTS: VitalForge (device/AI diagnostics education); SynthCivic (governance patterns); ANVIL for analysis swarms on synthetic aggregates.
@@ -40,7 +39,7 @@ Funding goal $0. Currency is accepted open-license labor + optional compute pots
 
 ## Seal note / impact statement
 
-Privacy-first contribution protocols, signal schemas, DP/aggregation designs, and governance packs for population health insights without centralized raw biometrics. Builder-ready: [30m] good-first leaves, matching pool on, seal credit for accepted work.
+Privacy-first contribution protocols, signal schemas, DP/aggregation designs, and governance packs for population health insights without centralized raw biometrics. Sealed package: all leaves accepted; marketplace claim flow closed; seal credit recorded in CONTRIBUTORS.md.
 
 ## How to use this package
 
